@@ -1,2 +1,3 @@
 # new-hello-world
 Just another repository for learning
+Learn GitHub is not easy...
